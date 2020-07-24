@@ -1,6 +1,6 @@
 # Console game: Blackjack
 
-![Game running](https://github.com/sagerg/cmsy168-final/blob/master/cover.png)
+![Game running](https://github.com/sagerg/blackjack-console/blob/master/cover.png)
 
 This project is a terminal/console based script simulating the logic of the game [Blackjack](https://en.wikipedia.org/wiki/Blackjack). Primarily written in Java.
 
